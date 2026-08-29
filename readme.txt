@@ -36,8 +36,8 @@ git status
 git add .
 git status
 git commit -m "Initial commit: Streamlit + Vertex AI chatbot"
-git remote add origin https://github.com/<your-username>/streamlit-vertex-chatbot.git  //template
-git remote add origin https://github.com/mvsk2k/stcombinedNewsagent.git
+git remote add origin https://github.com/<your-username>/texttospeechstreamlit.git  //template
+git remote add origin https://github.com/mvsk2k/texttospeechstreamlit.git
 git branch -M main
 git push -u origin main
 
