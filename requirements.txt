@@ -1,0 +1,13 @@
+# Frontend
+streamlit
+requests
+
+
+# Backend
+fastapi
+uvicorn[standard]
+google-cloud-texttospeech
+pydantic
+google-genai
+python-dotenv
+gunicorn
